@@ -1,9 +1,7 @@
 from src.config import TEMA
 
 TEMAS = {
-    "pokedex": "Pokédex",
-    "recetario": "Recetario",
-    "musica": "Biblioteca musical",
+    "recetario": "Recetario", 
 }
 
 
