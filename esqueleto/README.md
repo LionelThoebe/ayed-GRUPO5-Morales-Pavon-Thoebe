@@ -7,8 +7,11 @@ Repositorio del grupo. Partir de este esqueleto. No borrar la estructura de `src
 | Nombre | Mail | GitHub |
 
 | Lionel Santino Thoebe | lionelthoebe@gmail.com | LionelThoebe |
+
 | Lourdes Luisana Morales | Mrl.Lourdes.77@gmail.com | mrl-lour |
+
 | Milena Rocío Pavón | milenapavon605@gmail.com | MilenaPavon |
+
 |  |  |  |
 
 **Tema elegido:** Recetario
