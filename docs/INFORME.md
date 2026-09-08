@@ -9,8 +9,7 @@ Completar y hacer crecer en cada entrega. No hace falta prosa larga: oraciones c
 
 ## 2. Modelo
 
-Qué es un ítem del catálogo. Qué es mutable y qué no (E1). Cómo se relacionan catálogo, colección principal, pila y cola.
-<img width="1268" height="652" alt="image" src="https://github.com/user-attachments/assets/97e359a4-e99d-4326-be4a-b5d2837adcfc" />
+Qué es un ítem del catálogo. Qué es mutable y qué no (E1). Cómo se relacionan catálogo, colección principal, pila y cola
 
 ```text
 (pueden pegar un diagrama ASCII o una lista de clases)
